@@ -1,16 +1,23 @@
 body {
     background-color:#D5EDEB!important;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+
 }
 
 
 h1 {
   color: red!important;
   text-align: center;
+  font-family: 'PT Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 
 h2 {
   color: orange!important;
   text-align: center;
+  font-family: 'PT Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 
 ul {
@@ -18,11 +25,18 @@ ul {
 }
 
 ul li {
-  color: blue;
+  color: white;
 }
+
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+}
+
+.btn {
+  margin-top: 20px;
+  margin-bottom:20px;
+  background-color: #E37222;
 }
